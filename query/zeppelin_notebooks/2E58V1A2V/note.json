@@ -1,0 +1,82 @@
+{
+  "paragraphs": [
+    {
+      "text": "%pyspark\n\nprint(sc.version)",
+      "user": "anonymous",
+      "dateUpdated": "2019-02-18 21:46:28.626",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "2.3.3\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1550540476222_-1866747399",
+      "id": "20190218-204116_972994970",
+      "dateCreated": "2019-02-18 20:41:16.222",
+      "dateStarted": "2019-02-18 21:46:28.637",
+      "dateFinished": "2019-02-18 21:46:28.646",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%pyspark\n",
+      "user": "anonymous",
+      "dateUpdated": "2019-02-18 20:45:06.933",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1550540491449_-1916433741",
+      "id": "20190218-204131_985814671",
+      "dateCreated": "2019-02-18 20:41:31.449",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Avg age by category",
+  "id": "2E58V1A2V",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
