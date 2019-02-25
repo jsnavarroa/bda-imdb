@@ -40,7 +40,7 @@ FROM
 		JOIN
 	imdb.title_basics title ON title.tconst = principal.tconst
 		JOIN
-	imdb.name_basicsname_basics person ON principal.nconst = person.nconst
+	imdb.name_basics person ON principal.nconst = person.nconst
 WHERE
 	person.birthYear IS NOT NULL
 	AND title.startYear IS NOT NULL
